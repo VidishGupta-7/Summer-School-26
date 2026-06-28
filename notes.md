@@ -1,9 +1,10 @@
-Branch Notes
-dev
+# Branch Notes
+
+## dev
 This branch is used for development and integration.
 
-sensor-module
+## sensor-module
 This branch contains sensor-related code.
 
-wireless-module
+## wireless-module
 This branch contains wireless communication code.
