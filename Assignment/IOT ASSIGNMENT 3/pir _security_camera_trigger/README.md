@@ -106,3 +106,5 @@ Cooldown Started
 Libraries Used
 ESP32 Arduino Core (Built-in)
 LEDC PWM Functions (Built-in)
+
+simulation link: https://drive.google.com/file/d/149HcvsbAOVA6k6wBtgvwPDWXIFhJlOBh/view?usp=sharing
