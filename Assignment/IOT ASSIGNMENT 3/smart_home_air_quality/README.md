@@ -88,3 +88,5 @@ Cloud data logging
 Firebase integration
 Email/SMS emergency alerts
 Additional gas sensors for AQI calculation
+
+simulation link: https://drive.google.com/file/d/1ayQ-8wto_UwIY_x4PXvEohhDwODw6d2Y/view?usp=sharing
