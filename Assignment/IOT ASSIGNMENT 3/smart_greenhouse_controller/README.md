@@ -104,3 +104,5 @@ Light Level : 1320
 Heater      : OFF
 Fan         : OFF
 Grow Light  : ON
+
+simulation link: https://drive.google.com/file/d/1Y0Tg07Wi3OrIlaNYJvOGBNXiizYNrzCO/view?usp=sharing
