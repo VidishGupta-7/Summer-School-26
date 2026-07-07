@@ -100,3 +100,5 @@ Security Note
 Store API keys in a separate secrets.h file.
 Add the file to .gitignore.
 Never upload confidential API keys to public GitHub repositories.
+
+simulation link: https://drive.google.com/file/d/19-zOSFH8ELACAuwB6D47UlQhtro8aAWy/view?usp=sharing
