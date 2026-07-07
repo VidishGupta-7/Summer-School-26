@@ -101,3 +101,5 @@ Connect the components according to the circuit diagram.
 Upload the Arduino code.
 Start the simulation.
 Adjust the LDR slider to observe changes in Heart Rate and SpO₂ values.
+
+simulation link: https://drive.google.com/file/d/15m7SrLcqooA69iboxa-yUKBv9bAOX9D-/view?usp=sharing
